@@ -1,11 +1,11 @@
 # Vector Videojuegos - Desarrollo Frontend I
 
-## Semana 1
+## Semana 2
 
-Se realizó la estructura básica de la tienda con HTML aplicando la correcta semántica
+Se agregó los estilos básicos del sitio web
 
-![Evidencia visualización web](assets/semana-1/visualizacion-web.png)
+![Evidencia visualización web](assets/visualizacion-web.png)
 
 ### Evidencia de validación
 
-![Validacion de código HTML](assets/semana-1//html-validacion.png)
+![Validacion de código HTML](assets/html-validacion.png)
